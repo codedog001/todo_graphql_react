@@ -11,7 +11,7 @@ function App() {
       </div>
       <footer>
         <ul>
-          <li>Changes will be synced across browser in real-time</li>
+          <li>Changes will be synced across browsers in real-time</li>
           <li>Double click to edit a todo</li>
           <li>When done editing, press Enter to confirm changes</li>
           <li>Click on X to remove todo from the list</li>
