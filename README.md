@@ -6,5 +6,5 @@ Todo created with React JS, Graphql.
 
 
 ## Preview
-[View Demo](https://whatsapp-clone-6c82c.web.app)
+[View Demo](https://melodious-cat-550508.netlify.app/)
 
