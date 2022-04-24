@@ -10,7 +10,12 @@ function App() {
 
       </div>
       <footer>
-        <p>Changes will be synced across browser in real-time <br /> Double click to edit a todo <br /> When done editing, press Enter to confirm changes <br /> Click on X to remove todo from the list </p>
+        <ul>
+          <li>Changes will be synced across browser in real-time</li>
+          <li>Double click to edit a todo</li>
+          <li>When done editing, press Enter to confirm changes</li>
+          <li>Click on X to remove todo from the list</li>
+        </ul>
         <p><a href="https://github.com/codedog001/todo_graphql_react" target={"_blank"} >View Source</a></p>
       </footer>
     </div>
